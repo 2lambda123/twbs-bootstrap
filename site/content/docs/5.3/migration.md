@@ -89,7 +89,7 @@ If you're migrating from our previous alpha release of v5.3.0, please review the
 
 ### Tooling
 
-- Added SCSS testing via True to help test our utilities API and other customizations.
+- Removed SCSS testing via True as it is no longer used.
 
 - Replaced instances of our bootstrap-npm-starter project with the newer and more complete [twbs/examples repo](https://github.com/twbs/examples).
 
